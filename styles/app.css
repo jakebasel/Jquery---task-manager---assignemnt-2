@@ -1,0 +1,16 @@
+main {
+    display: flex;
+}
+
+#list {
+    flex: 4;
+}
+
+#capture-form {
+    flex: 3;
+}
+
+#iImportant {
+    font-size: 32px;
+    cursor: pointer;
+}
